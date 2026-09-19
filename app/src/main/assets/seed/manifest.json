@@ -1,0 +1,86 @@
+[
+  {
+    "file": "programme_T6.txt",
+    "categorie": "PROGRAMME",
+    "niveau": "6ème",
+    "matiere": "English",
+    "titre": "Programme d’Études — Anglais 6ème"
+  },
+  {
+    "file": "repartition_T6.txt",
+    "categorie": "REPARTITION",
+    "niveau": "6ème",
+    "matiere": "English",
+    "titre": "Répartition Annuelle du Programme (RAPE) — Anglais 6ème"
+  },
+  {
+    "file": "fascicule_T6.txt",
+    "categorie": "FASCICULE",
+    "niveau": "6ème",
+    "matiere": "English",
+    "titre": "Fascicule de Ressources Pédagogiques — Anglais 6ème"
+  },
+  {
+    "file": "programme_T7.txt",
+    "categorie": "PROGRAMME",
+    "niveau": "5ème",
+    "matiere": "English",
+    "titre": "Programme d’Études — Anglais 5ème"
+  },
+  {
+    "file": "repartition_T7.txt",
+    "categorie": "REPARTITION",
+    "niveau": "5ème",
+    "matiere": "English",
+    "titre": "Répartition Annuelle du Programme (RAPE) — Anglais 5ème"
+  },
+  {
+    "file": "fascicule_T7.txt",
+    "categorie": "FASCICULE",
+    "niveau": "5ème",
+    "matiere": "English",
+    "titre": "Fascicule de Ressources Pédagogiques — Anglais 5ème"
+  },
+  {
+    "file": "programme_T8.txt",
+    "categorie": "PROGRAMME",
+    "niveau": "4ème",
+    "matiere": "English",
+    "titre": "Programme d’Études — Anglais 4ème"
+  },
+  {
+    "file": "repartition_T8.txt",
+    "categorie": "REPARTITION",
+    "niveau": "4ème",
+    "matiere": "English",
+    "titre": "Répartition Annuelle du Programme (RAPE) — Anglais 4ème"
+  },
+  {
+    "file": "fascicule_T8.txt",
+    "categorie": "FASCICULE",
+    "niveau": "4ème",
+    "matiere": "English",
+    "titre": "Fascicule de Ressources Pédagogiques — Anglais 4ème"
+  },
+  {
+    "file": "programme_T9.txt",
+    "categorie": "PROGRAMME",
+    "niveau": "3ème",
+    "matiere": "English",
+    "titre": "Programme d’Études — Anglais 3ème"
+  },
+  {
+    "file": "repartition_T9.txt",
+    "categorie": "REPARTITION",
+    "niveau": "3ème",
+    "matiere": "English",
+    "titre": "Répartition Annuelle du Programme (RAPE) — Anglais 3ème"
+  },
+  {
+    "file": "fascicule_T9.txt",
+    "categorie": "FASCICULE",
+    "niveau": "3ème",
+    "matiere": "English",
+    "titre": "Fascicule de Ressources Pédagogiques — Anglais 3ème"
+  }
+]
