@@ -1,7 +1,0 @@
-app/
-├── build.gradle.kts
-└── src/main/
-    ├── AndroidManifest.xml
-    ├── java/com/fahendrena/teacherassistant/... (tous les .kt)
-    ├── res/...
-    └── assets/seed/... (12 fichiers .txt + 2 .json)
